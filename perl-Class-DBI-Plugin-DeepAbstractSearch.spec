@@ -8,7 +8,7 @@ Summary:	Class::DBI::Plugin::DeepAbstractSearch - deep_search_where() for Class:
 #Summary(pl.UTF-8):	
 Name:		perl-Class-DBI-Plugin-DeepAbstractSearch
 Version:	0.08
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
